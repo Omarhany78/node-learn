@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "literly_an_thing": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
@@ -11,6 +12,7 @@
   "description": "",
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "electron": "^31.2.0"
+    "electron": "^31.2.0",
+    "nodemon": "^3.1.4"
   }
 }
