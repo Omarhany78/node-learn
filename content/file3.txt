@@ -1,0 +1,2 @@
+The First File Result Is: My name is Omar 
+The Second File Result Is: My name is Moaaz
